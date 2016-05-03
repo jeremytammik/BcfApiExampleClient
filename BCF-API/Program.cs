@@ -18,7 +18,7 @@ namespace BCF_API
     [STAThread]
     static void Main()
     {
-      // Please fill inn:
+      // Please fill in:
       string url = "https://bim--it.net/bcf";
       string clientId = "YOUR_CLIENT_ID";
       string clientSecret = "YOU_CLIENT_SECRET";
